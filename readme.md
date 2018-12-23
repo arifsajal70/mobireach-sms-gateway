@@ -49,7 +49,6 @@ license. Please see the [license file](license.md) for more information.
 
 [ico-packagist-version]: https://img.shields.io/badge/Packagist-1.0-brightgreen.svg
 [ico-github-version]: https://img.shields.io/badge/Github-1.0-brightgreen.svg
-[ico-downloads]: https://img.shields.io/packagist/dt/arifsajal/banglalinksmsgatewaylaravel.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/arifsajal/mobireach-sms-gateway
 [link-github]: https://github.com/arifsajal70/mobireach-sms-gateway
