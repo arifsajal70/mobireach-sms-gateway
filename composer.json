@@ -1,0 +1,32 @@
+{
+    "name": "arifsajal/mobireach-sms-gateway",
+    "description": ":description",
+    "license": "license",
+    "authors": [
+        {
+            "name": "Ariful Islam",
+            "email": "sajalarifulislam@gmail.com",
+            "homepage": "https://github.com/arifsajal70"
+        }
+    ],
+    "homepage": "https://github.com/arifsajal70/mobireach-sms-gateway",
+    "keywords": ["Laravel", "MobireachSmsGateway"],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arifsajal\\MobireachSmsGateway\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Arifsajal\\MobireachSmsGateway\\Providers\\MobireachServiceProvider"
+            ],
+            "aliases": {
+                "Mobireach": "Arifsajal\\MobireachSmsGateway\\Facades\\Mobireach"
+            }
+        }
+    }
+}
