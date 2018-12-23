@@ -8,7 +8,7 @@
 Via Composer
 
 ``` bash
-$ composer require arifsajal/banglalink-sms-gateway-laravel
+$ composer require arifsajal/mobireach-sms-gateway
 ```
 Wait for few minutes. Composer will automatically install the package for your project.
 
