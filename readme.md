@@ -17,7 +17,7 @@ Wait for few minutes. Composer will automatically install the package for your p
 Open `config/app.php` And Add Below Line In `Providers` Section
 
 ```php
-Arifsajal\BanglalinkSmsGatewayLaravel\Providers\BanglalinkServiceProvider::class
+Arifsajal\BanglalinkSmsGatewayLaravel\Providers\MobireachServiceProvider::class
 ```
 And for Facade Support, Add Below Line In `aliases` Section
  
