@@ -1,4 +1,4 @@
-# BanglalinkSmsGatewayLaravel
+# Mobireach SMS Gateway
 
 [![Latest Version on Packagist][ico-packagist-version]][link-packagist]
 [![Latest Version on Github][ico-github-version]][link-github]
